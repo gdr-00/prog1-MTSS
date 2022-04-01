@@ -6,3 +6,4 @@
 Scheda Madre Asus Rog Maximus Z690 Extreme
 
 ryzen 9 5950x
+Elettronica Padovana
